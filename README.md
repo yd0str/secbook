@@ -45,12 +45,14 @@ ACM Transactions on Information and System Security (TISSEC) 16.4 (2014): 14.
 USENIX Security Symposium. 2012.
 [[note](#)]
 [[link](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/antonakakis)]
-*
-[[note]()]
-[[link]()]
-*
-[[note]()]
-[[link]()]
+* Antonakakis, Manos, et al. **"Detecting Malware Domains at the Upper DNS Hierarchy."**
+USENIX Security Symposium. 2011.
+[[note](#)]
+[[link](https://dl.acm.org/citation.cfm?id=2028094)]
+* Antonakakis, Manos, et al. **"Building a Dynamic Reputation System for DNS."**
+USENIX security symposium. 2010.
+[[note](#)]
+[[link](https://dl.acm.org/citation.cfm?id=1929844)]
 
 ##### Malware/Botnet Networks
 * Nadji, Yacin, et al. **"Connected colors: Unveiling the structure of criminal networks."**
