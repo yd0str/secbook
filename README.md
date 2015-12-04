@@ -1,4 +1,4 @@
- # ::A Notebook for Cybersecurity Research:: #
+ ## ::A Notebook for Cybersecurity Research::
 
 >Cyber threat is one of the most serious problem right now.
 Here is my notebook with some collections and resources in cybersecurity resaerch.
@@ -12,3 +12,9 @@ Here is my notebook with some collections and resources in cybersecurity resaerc
                      |_|
     (Simple Plan - S.P.)
 
+##### Resources
+* [Intelligence Resources](recources.md)
+
+##### Scholar Paper
+
+##### White Paper
