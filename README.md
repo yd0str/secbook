@@ -19,7 +19,7 @@
 * [Intelligence Resources](resources.md)
 
 
-#### ::Scholar Paper::
+#### ::Scholarly Paper::
 ##### Malicious DNS Detection
 * Stevanovic, Matija, et al. **"On the ground truth problem of malicious DNS traffic analysis."**
 Computers & Security 55 (2015): 142-158.
@@ -68,3 +68,16 @@ Research in Attacks, Intrusions and Defenses. Springer International Publishing,
 
 
 #### ::White Paper::
+##### Blacklist
+* Leigh B. Metcalf and Jonathan Spring. **"Blacklist Ecosystem Analysis Update: 2014"**
+Software Engineering Institute, 2015.
+[[note](#)]
+[[link](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=428609)]
+* Marc Küh­rer, Chris­ti­an Ros­s­ow, and Thors­ten Holz. **"Technical Report: Paint It Black: Evaluating the Effectiveness of Malware Blacklists"**
+HORST GÖRTZ INSTITUTE FOR IT-SECURITY, 2014
+[[note](#)]
+[[link](https://www.hgi.rub.de/hgi/publikationen/tr_bl_eval/)]
+* Leigh B. Metcalf and Jonathan Spring. **"Everything You Wanted to Know About Blacklists But Were Afraid to Ask"**
+Software Engineering Institute, 2013.
+[[note](#)]
+[[link](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=83438)]
