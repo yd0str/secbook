@@ -1,7 +1,8 @@
  # ::A Notebook for Cybersecurity Research:: #
 
 >Cyber threat is one of the most serious problem right now.
->Here is my notebook with some collections and resources in cybersecurity resaerch.
+Here is my notebook with some collections and resources in cybersecurity resaerch.
+
 >Stay hungry. Saty foolish.
 
      _____  _              _        _____  _                 _____     _____
@@ -10,6 +11,4 @@
     |_____||_||_|_|_||  _||_||___| |__|   |_||__,||_|_|     |_____||_||__|  |_|
                      |_|
     (Simple Plan - S.P.)
-
-
 
