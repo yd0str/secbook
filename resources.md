@@ -101,10 +101,10 @@
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | PANDA-Malrec  | 2      | No         | No          | No  | No          | Yes           | WebUI/FILE    | PCAP/RRLOG  | malware  |
-| ContagioPcap  | 2      | No         | No          | No  | No          | Yes           | FILE          | BIN         | malware  |
+| ContagioPcap  | 2      | No         | No          | No  | No          | Yes           | MediaFire     | ZIP/PCAP    | malware  |
 
 * [PANDA-Malrec](http://panda.gtisc.gatech.edu/malrec/)
-* [ContagioPcap](http://contagiodump.blogspot.tw/2013/04/collection-of-pcap-files-from-malware.html)
+* [ContagioPcap](http://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 
 ## Online Anti-Virus/Sandbox/Lookup Service
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
