@@ -16,7 +16,7 @@
     (Simple Plan - S.P.)
 
 ##### Resources
-* [Intelligence Resources](recources.md)
+* [Intelligence Resources](resources.md)
 
 ##### Scholar Paper
 
