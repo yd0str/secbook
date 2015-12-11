@@ -14,4 +14,4 @@ Thumbs.db
 .Trashes
 
 # Personal backup files
-.bak
+*.bak
