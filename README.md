@@ -1,4 +1,3 @@
-
 ## ::A Notebook for Cybersecurity Research::
 
 
@@ -17,10 +16,11 @@
 
 #### ::Resources::
 * [Intelligence Resources](resources.md)
-
+* [Network Forensics and Analysis References](network_forensics_and_analysis.md)
 
 #### ::Scholarly Paper::
 ##### Malicious DNS Detection
+
 * Stevanovic, Matija, et al. **"On the ground truth problem of malicious DNS traffic analysis."**
 Computers & Security 55 (2015): 142-158.
 [[note](#)]
