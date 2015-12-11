@@ -1,4 +1,6 @@
-## Blacklist
+## Intelligence Resources
+
+#### Blacklist
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | PhishTank     | 4      | Yes        | Yes         | Yes | No          | No | WebUI/API| XML/CSV/JSON/Serialized PHP | phishing |
@@ -57,7 +59,7 @@
 * [ThreatLog](http://www.threatlog.com/)
 * [URLBlacklist](http://www.urlblacklist.com/)
 
-## Whitelist
+#### Whitelist
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | AlexaTop500   | 1      | No         | Yes         | No  | No          | No            | WebUI         | XML         | benign   |
@@ -68,7 +70,7 @@
 * [Alexa Top 1M Web sites](http://s3.amazonaws.com/alexa-static/top-1m.csv.zip)
 * [DNSWL.org](http://www.dnswl.org)
 
-## Specimen
+#### Specimen
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | Contagio      | 5      | Yes        | Yes         | Yes | Yes         | Yes           | RSS/FILE      | XML/BIN     | malware  |
@@ -97,7 +99,7 @@
 * [NoThink Honeypots](http://www.nothink.org/honeypots.php)
 * [VirusSign](http://www.virussign.com/)
 
-## Network Trace
+#### Network Trace
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | PANDA-Malrec  | 2      | No         | No          | No  | No          | Yes           | WebUI/FILE    | PCAP/RRLOG  | malware  |
@@ -106,7 +108,7 @@
 * [PANDA-Malrec](http://panda.gtisc.gatech.edu/malrec/)
 * [ContagioPcap](http://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html)
 
-## Online Anti-Virus/Sandbox/Lookup Service
+#### Online Anti-Virus/Sandbox/Lookup Service
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | urlQuery      | 4      | Yes        | Yes         | Yes | No          | No            | WebUI         | XML         | malware  |
@@ -142,14 +144,14 @@
 * [SANS - Internet Storm Center (dshield)](https://isc.sans.edu/)
 * [Free Online Tools for Looking up Potentially Malicious Websites](https://zeltser.com/lookup-malicious-websites/)
 
-## STIX & TAXII Threat Intelligence Repository
+#### STIX & TAXII Threat Intelligence Repository
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | HailaTAXII    | TBD    | TBD        | TBD         | TBD | TBD         | TBD           | TXAII         | TBD         | TBD      |
 
 * [Hail a TAXII](http://hailataxii.com/)
 
-## Others
+#### Others
 | Resource Name | Weight | IP Address | Domain Name | URL | Binary File | Network Trace | Access Method | Format      | Category |
 |:------------- |:------ |:---------- |:----------- |:--- |:----------- |:------------- |:------------- |:----------- |:-------- |
 | McAfeeSiteAdvisor | TBD| TBD        | TBD         | TBD | TBD         | TBD           | TBD           | TBD         | TBD      |
