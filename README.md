@@ -21,6 +21,10 @@
 #### ::Scholarly Paper::
 ##### Malicious DNS Detection
 
+* Zhao, G. U. O. D. O. N. G., et al. **"Detecting APT Malware Infections Based on Malicious DNS and Traffic Analysis."**
+Access, IEEE 3 (2015): 1132-1142.
+[[note](#)]
+[[link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7163279)]
 * Stevanovic, Matija, et al. **"On the ground truth problem of malicious DNS traffic analysis."**
 Computers & Security 55 (2015): 142-158.
 [[note](#)]
