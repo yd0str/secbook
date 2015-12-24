@@ -16,7 +16,6 @@
 
 #### ::Resources::
 * [Intelligence Resources](intelligence_resources.md)
-* [Network Forensics and Analysis References](network_forensics_and_analysis.md)
 
 #### ::Scholarly Paper::
 ##### Malicious DNS Detection
