@@ -1,11 +1,11 @@
 ## ::A Notebook for Cybersecurity Research::
 
 
->Cyber threat is one of the most serious problem right now.
+> Cyber threat is one of the most serious problem right now.
 
->Here is my notebook with some collections and resources in cybersecurity resaerch.
+> Here is my notebook with some collections and resources in cybersecurity resaerch.
 
->Stay hungry. Saty foolish.
+> Stay hungry. Saty foolish.
 
      _____  _              _        _____  _                 _____     _____
     |   __||_| _____  ___ | | ___  |  _  || | ___  ___  ___ |   __|   |  _  |
@@ -16,6 +16,7 @@
 
 #### ::Resources::
 * [Intelligence Resources](intelligence_resources.md)
+* [Malicious DNS Detection Features](malicious_dns_features.md)
 
 #### ::Scholarly Paper::
 ##### Malicious DNS Detection
@@ -26,7 +27,7 @@ Access, IEEE 3 (2015): 1132-1142.
 [[link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7163279)]
 * Stevanovic, Matija, et al. **"On the ground truth problem of malicious DNS traffic analysis."**
 Computers & Security 55 (2015): 142-158.
-[[note](#)]
+[[note](scholarly_paper/on_the_ground_truth_problem_of_malicious_dns_traffic_analysis.md)]
 [[link](http://www.sciencedirect.com/science/article/pii/S016740481500125X)]
 * Rahbarinia, Babak, Roberto Perdisci, and Manos Antonakakis. **"Segugio: Efficient Behavior-Based Tracking of Malware-Control Domains in Large ISP Networks."**
 Dependable Systems and Networks (DSN), 2015 45th Annual IEEE/IFIP International Conference on. IEEE, 2015.
