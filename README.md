@@ -31,7 +31,7 @@ Computers & Security 55 (2015): 142-158.
 [[link](http://www.sciencedirect.com/science/article/pii/S016740481500125X)]
 * Rahbarinia, Babak, Roberto Perdisci, and Manos Antonakakis. **"Segugio: Efficient Behavior-Based Tracking of Malware-Control Domains in Large ISP Networks."**
 Dependable Systems and Networks (DSN), 2015 45th Annual IEEE/IFIP International Conference on. IEEE, 2015.
-[[note](#)]
+[[note](scholarly_paper/segugio_efficient_behavior-based_tracking_of_malware-control_domains_in_large_isp_networks)]
 [[link](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7266868)]
 * Ma, Xiaobo, et al. **"DNSRadar: outsourcing malicious domain detection based on distributed cache-footprints."**
 Information Forensics and Security, IEEE Transactions on 9.11 (2014): 1906-1921.
